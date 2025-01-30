@@ -1,0 +1,28 @@
+{
+  "message": "Success",
+  "data": {
+    "posts": [
+      {
+        "mediaUrl": "https://drive.google.com/file/d/1ExMd0QgpsBgmcNNzfW8hGGMAO4cJp8Dw/preview","mediaName":"Post","teraUrl":"https://1024terabox.com/s/1OXNY0umuVJ40a_EuVtu0xw","mediaThumbnail":"https://drive.google.com/thumbnail?id=1ExMd0QgpsBgmcNNzfW8hGGMAO4cJp8Dw"
+      },{
+        "mediaUrl": "https://drive.google.com/file/d/1z75FeWNay6qw4zMAEhZQ7_csQ_iwT2hm/preview","mediaName":"Post","teraUrl":"https://1024terabox.com/s/1OXNY0umuVJ40a_EuVtu0xw","mediaThumbnail":"https://drive.google.com/thumbnail?id=1z75FeWNay6qw4zMAEhZQ7_csQ_iwT2hm"
+      },{
+        "mediaUrl": "https://drive.google.com/file/d/1wVKBbThrCiL3f7pNGdjcbRFPxiaZZdCV/preview","mediaName":"Post","teraUrl":"https://1024terabox.com/s/1OXNY0umuVJ40a_EuVtu0xw","mediaThumbnail":"https://drive.google.com/thumbnail?id=1wVKBbThrCiL3f7pNGdjcbRFPxiaZZdCV"
+      },{
+        "mediaUrl": "https://drive.google.com/file/d/1kxgovlY1ooZM8cwV5m6MBDjdD4K4CaMP/preview","mediaName":"Post","teraUrl":"https://1024terabox.com/s/1OXNY0umuVJ40a_EuVtu0xw","mediaThumbnail":"https://drive.google.com/thumbnail?id=1kxgovlY1ooZM8cwV5m6MBDjdD4K4CaMP"
+      },{
+        "mediaUrl": "https://drive.google.com/file/d/1F8IQHuxCDZPKFhvzPEmvIDptkVZHxgDT/preview","mediaName":"Post","teraUrl":"https://1024terabox.com/s/1OXNY0umuVJ40a_EuVtu0xw","mediaThumbnail":"https://drive.google.com/thumbnail?id=1F8IQHuxCDZPKFhvzPEmvIDptkVZHxgDT"
+      },{
+        "mediaUrl": "https://drive.google.com/file/d/1YtnaOe0-QSTWAUc8QZN8b57dtG6NeVnD/preview","mediaName":"Post","teraUrl":"https://1024terabox.com/s/1OXNY0umuVJ40a_EuVtu0xw","mediaThumbnail":"https://drive.google.com/thumbnail?id=1YtnaOe0-QSTWAUc8QZN8b57dtG6NeVnD"
+      },{
+        "mediaUrl": "https://drive.google.com/file/d/1lkwHz3vw6DQnJwc7CNhpjcxVNsEzp65K/preview","mediaName":"Post","teraUrl":"https://1024terabox.com/s/1OXNY0umuVJ40a_EuVtu0xw","mediaThumbnail":"https://drive.google.com/thumbnail?id=1lkwHz3vw6DQnJwc7CNhpjcxVNsEzp65K"
+      },{
+        "mediaUrl": "https://drive.google.com/file/d/1mGOXgOZ4UREFFvp_Bf-L0sHl4CX5IKx3/preview","mediaName":"Post","teraUrl":"https://1024terabox.com/s/1OXNY0umuVJ40a_EuVtu0xw","mediaThumbnail":"https://drive.google.com/thumbnail?id=1mGOXgOZ4UREFFvp_Bf-L0sHl4CX5IKx3"
+      },{
+        "mediaUrl": "https://drive.google.com/file/d/1G5yyHo8rd4QfGdTJ7118EkZskldHTDBT/preview","mediaName":"Post","teraUrl":"https://1024terabox.com/s/1OXNY0umuVJ40a_EuVtu0xw","mediaThumbnail":"https://drive.google.com/thumbnail?id=1G5yyHo8rd4QfGdTJ7118EkZskldHTDBT"
+      },{
+        "mediaUrl": "https://drive.google.com/file/d/1YFGjG9KAwqgrzlBPz72m3Q-sq-nebsYv/preview","mediaName":"Post","teraUrl":"https://1024terabox.com/s/1OXNY0umuVJ40a_EuVtu0xw","mediaThumbnail":"https://drive.google.com/thumbnail?id=1YFGjG9KAwqgrzlBPz72m3Q-sq-nebsYv"
+      }
+    ]
+  }
+}
